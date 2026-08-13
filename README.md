@@ -4,7 +4,7 @@ An interactive Finance Performance Dashboard built with Tableau to analyze reven
 
 ## 📊 Interactive Dashboard
 
-🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/shared/F7T5SRH36?:display_count=n&:origin=viz_share_link)**
+🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Book2_17866145691280/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 The Tableau Public version allows users to interact with the dashboard using filters and explore different financial dimensions.
 
@@ -19,24 +19,25 @@ The Tableau Public version allows users to interact with the dashboard using fil
 ## 📈 Dashboard Features
 
 ### KPI Cards
+
 - Total Revenue
 - Total Profit
 - Profit Margin
 - Total Transactions
 
 ### Visualizations
+
 - Revenue by Category
 - Profit by Category
 - Revenue Trend
 - Profit Trend
-- Revenue by Region
-- Revenue by City
-- Revenue Distribution Histogram
-- Revenue Share by Category
-- Profit Margin by Category
 - Geographic Revenue Map
+- Revenue Distribution
+- Category and Regional Performance Analysis
+- Interactive Financial Comparisons
 
 ### Interactive Filters
+
 - Date
 - Region
 - City
@@ -46,7 +47,7 @@ The Tableau Public version allows users to interact with the dashboard using fil
 
 ## 🎯 Project Objective
 
-The objective of this project was to transform financial transaction data into an interactive business intelligence dashboard that allows users to quickly monitor financial performance and identify important trends.
+The objective of this project was to transform financial transaction data into an interactive business intelligence dashboard that allows users to monitor financial performance and identify important trends.
 
 The dashboard combines KPI cards, categorical comparisons, time-series analysis, distribution analysis, geographic visualization, and interactive filtering.
 
